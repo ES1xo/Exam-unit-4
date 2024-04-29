@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BhL+X1BKY6mhPY3CgeI/qgioQdH3oP9BmqxIl7xy5/0QzHGgbuVOUqQwLJa2OHrgcZjGczAruDLtZSVbcobFWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erlen\\Downloads\\Fitness-wall-code-main\\Fitness-wall-code-main\\Exam-Unit-4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erlen\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\erlen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\erlen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\erlen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\erlen\Downloads\Fitness-wall-code-main\Fitness-wall-code-main\CLIApp\bin\Debug\net8.0\CLIApp.exe
+C:\Users\erlen\Downloads\Fitness-wall-code-main\Fitness-wall-code-main\CLIApp\bin\Debug\net8.0\CLIApp.deps.json
+C:\Users\erlen\Downloads\Fitness-wall-code-main\Fitness-wall-code-main\CLIApp\bin\Debug\net8.0\CLIApp.runtimeconfig.json
+C:\Users\erlen\Downloads\Fitness-wall-code-main\Fitness-wall-code-main\CLIApp\bin\Debug\net8.0\CLIApp.dll
+C:\Users\erlen\Downloads\Fitness-wall-code-main\Fitness-wall-code-main\CLIApp\bin\Debug\net8.0\CLIApp.pdb
+C:\Users\erlen\Downloads\Fitness-wall-code-main\Fitness-wall-code-main\CLIApp\obj\Debug\net8.0\CLIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erlen\Downloads\Fitness-wall-code-main\Fitness-wall-code-main\CLIApp\obj\Debug\net8.0\CLIApp.AssemblyInfoInputs.cache
+C:\Users\erlen\Downloads\Fitness-wall-code-main\Fitness-wall-code-main\CLIApp\obj\Debug\net8.0\CLIApp.AssemblyInfo.cs
+C:\Users\erlen\Downloads\Fitness-wall-code-main\Fitness-wall-code-main\CLIApp\obj\Debug\net8.0\CLIApp.csproj.CoreCompileInputs.cache
+C:\Users\erlen\Downloads\Fitness-wall-code-main\Fitness-wall-code-main\CLIApp\obj\Debug\net8.0\CLIApp.sourcelink.json
+C:\Users\erlen\Downloads\Fitness-wall-code-main\Fitness-wall-code-main\CLIApp\obj\Debug\net8.0\CLIApp.dll
+C:\Users\erlen\Downloads\Fitness-wall-code-main\Fitness-wall-code-main\CLIApp\obj\Debug\net8.0\refint\CLIApp.dll
+C:\Users\erlen\Downloads\Fitness-wall-code-main\Fitness-wall-code-main\CLIApp\obj\Debug\net8.0\CLIApp.pdb
+C:\Users\erlen\Downloads\Fitness-wall-code-main\Fitness-wall-code-main\CLIApp\obj\Debug\net8.0\CLIApp.genruntimeconfig.cache
+C:\Users\erlen\Downloads\Fitness-wall-code-main\Fitness-wall-code-main\CLIApp\obj\Debug\net8.0\ref\CLIApp.dll

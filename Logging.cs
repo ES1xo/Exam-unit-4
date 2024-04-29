@@ -3,7 +3,7 @@ class SerialPortLogger
 {
     static void Main()
     {
-        using (SerialPort serialPort = new SerialPort("COM7", 921600)) //921600 is default for debug
+        using (SerialPort serialPort = new SerialPort("COM4", 921600))
         {
             serialPort.Open();
             Console.WriteLine("port opened");
